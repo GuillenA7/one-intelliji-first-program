@@ -85,7 +85,7 @@ Through this project I reinforced:
 
 ## 🏆 About the Program
 
-This project is part of the **Java Object-Oriented Formation (G9 - ONE)** by **Oracle Next Education + Alura**,
+This project is part of the **Java Object-Oriented Formation (G9 - ONE)** by **[Oracle Next Education](https://www.oracle.com/mx/education/oracle-next-education/) + [Alura](https://www.aluracursos.com/)**,
 a professional training path designed to develop solid programming foundations and prepare developers for object-oriented design and real-world applications.
 
 ---
@@ -102,5 +102,3 @@ Feel free to use, modify, and share it for educational purposes.
 **LinkedIn:** [Jose Adrian Guillen Lamas](https://www.linkedin.com/in/jose-adrian-guillen-lamas-3b3b5135b/)
 
 **GitHub:** [GuillenA7](https://github.com/GuillenA7)
-
-```
