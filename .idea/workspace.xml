@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb7d21a5-8705-4d62-a18c-2531be8c397b" name="Changes" comment="" />
+    <list default="true" id="bb7d21a5-8705-4d62-a18c-2531be8c397b" name="Changes" comment="feat: implement type casting for movie rating conversion in ScreenMatch">
+      <change afterPath="$PROJECT_DIR$/src/Decisiones.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +15,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GuillenA7"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GuillenA7/one-intelliji-first-program.git",
+    "accountId": "f08843c2-7d45-4c92-bb37-2d78d3375ed2"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="345XdbtTUSppoi7jPS71Msfj0AZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,8 +40,13 @@
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/Users/PC/IntellijiProjects/primerprograma/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -45,10 +67,51 @@
       <option name="presentableId" value="Default" />
       <updated>1760504497280</updated>
       <workItem from="1760504498943" duration="251000" />
+      <workItem from="1760504775992" duration="1629000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: add first Intelliji program (Hola Mundo!)">
+      <option name="closed" value="true" />
+      <created>1760504859293</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760504859293</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: add movie data variables and basic calculations (ScreenMatch project)">
+      <option name="closed" value="true" />
+      <created>1760505509714</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760505509714</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: add text handling with Strings and text blocks in ScreenMatch">
+      <option name="closed" value="true" />
+      <created>1760505782795</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760505782795</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: implement type casting for movie rating conversion in ScreenMatch">
+      <option name="closed" value="true" />
+      <created>1760506053298</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760506053298</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add first Intelliji program (Hola Mundo!)" />
+    <MESSAGE value="feat: add movie data variables and basic calculations (ScreenMatch project)" />
+    <MESSAGE value="feat: add text handling with Strings and text blocks in ScreenMatch" />
+    <MESSAGE value="feat: implement type casting for movie rating conversion in ScreenMatch" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: implement type casting for movie rating conversion in ScreenMatch" />
   </component>
 </project>
