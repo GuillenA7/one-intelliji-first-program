@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb7d21a5-8705-4d62-a18c-2531be8c397b" name="Changes" comment="feat(decisiones): add logical operators (||, &amp;&amp;) and String.equals() for plan-based access">
-      <change afterPath="$PROJECT_DIR$/src/Lectura.java" afterDir="false" />
+    <list default="true" id="bb7d21a5-8705-4d62-a18c-2531be8c397b" name="Changes" comment="feat(lectura): add user input handling using Scanner class">
+      <change afterPath="$PROJECT_DIR$/src/Loops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/PC/IntellijiProjects/primerprograma/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -74,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1760504497280</updated>
       <workItem from="1760504498943" duration="251000" />
-      <workItem from="1760504775992" duration="2298000" />
+      <workItem from="1760504775992" duration="3877000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add first Intelliji program (Hola Mundo!)">
       <option name="closed" value="true" />
@@ -124,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760506775505</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat(lectura): add user input handling using Scanner class">
+      <option name="closed" value="true" />
+      <created>1760507104044</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1760507104044</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +146,7 @@
     <MESSAGE value="feat: implement type casting for movie rating conversion in ScreenMatch" />
     <MESSAGE value="feat: add basic decision control with if-else statements in ScreenMatch" />
     <MESSAGE value="feat(decisiones): add logical operators (||, &amp;&amp;) and String.equals() for plan-based access" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(decisiones): add logical operators (||, &amp;&amp;) and String.equals() for plan-based access" />
+    <MESSAGE value="feat(lectura): add user input handling using Scanner class" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(lectura): add user input handling using Scanner class" />
   </component>
 </project>
